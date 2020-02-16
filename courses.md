@@ -18,7 +18,27 @@ https://botlnec.github.io/islp/
 https://github.com/mdozmorov/Statistics_notes
 
 8. Decision-Making with Belief Functions: a Review
-https://arxiv.org/pdf/1808.05322.pdf
+https://arxiv.org/pdf/1808.05322.pdf 
+
+9. SYST 664 / OR 664 / CSI 674 Bayesian Inference and Decision Theory
+http://seor.vse.gmu.edu/~klaskey/SYST664/SYST664.html 
+
+10.Statistical Decision Theory 
+https://www.perrywilliams.us/wp-content/uploads/2017/06/DecisionTheory.pdf 
+
+11. Introduction to Machine Learning, second edition
+https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/index.html
+
+12. CS 229 ― Machine Learning
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
+
+13. CSE 6240: WEB SEARCH AND TEXT MINING
+https://cs.stanford.edu/~srijan/teaching/cse6240/spring2020/ 
+
+
+
+
+
 
 
 
