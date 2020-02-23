@@ -35,7 +35,10 @@ https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
 13. CSE 6240: WEB SEARCH AND TEXT MINING
 https://cs.stanford.edu/~srijan/teaching/cse6240/spring2020/ 
 
+14. https://livebook.datascienceheroes.com/ 
+Data Science Live Book
 
+15.
 
 
 
