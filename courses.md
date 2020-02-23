@@ -38,7 +38,8 @@ https://cs.stanford.edu/~srijan/teaching/cse6240/spring2020/
 14. https://livebook.datascienceheroes.com/ 
 Data Science Live Book
 
-15.
+15.Statistical Inference via Data Science 
+https://moderndive.com/ 
 
 
 
